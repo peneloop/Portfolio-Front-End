@@ -31,7 +31,7 @@ export function About(){
                     <img src="/technology/JavaScript.png" className="w-12 md:w-16 grayscale hover:grayscale-0 transition-all duration-300 hover:scale-110 cursor-pointer" alt="JS" />
                     <img src="/technology/react.png" className="w-12 md:w-16 grayscale hover:grayscale-0 transition-all duration-300 hover:scale-110 cursor-pointer" alt="React" />
                     <img src="/technology/Tailwind.png" className="w-12 md:w-16 grayscale hover:grayscale-0 transition-all duration-300 hover:scale-110 cursor-pointer" alt="Tailwind" />
-                    <img src="/technology/Git.png" className="w-12 md:w-16 grayscale hover:grayscale-0 transition-all duration-300 hover:scale-110 cursor-pointer" alt="Git" />
+                    <img src="/technology/git.png" className="w-12 md:w-16 grayscale hover:grayscale-0 transition-all duration-300 hover:scale-110 cursor-pointer" alt="Git" />
                 </div>
             </div>
         </section>
