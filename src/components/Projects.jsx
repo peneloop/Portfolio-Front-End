@@ -68,7 +68,7 @@ export function Projects(){
                                         <ExternalLink className="w-5 h-5"/> Demo
                                     </a>
                                     <a href={project.githubUrl} target="_blank" className="text-slate-400 hover:text-sky-400 transition-colors flex items-center gap-1 text-sm">
-                                        <img src="./public/GitHub.svg" className="invert w-5 h-5 opacity-80 group-hover:opacity-100 transition-opacity"/> GitHub
+                                        <img src="/GitHub.svg" className="invert w-5 h-5 opacity-80 group-hover:opacity-100 transition-opacity"/> GitHub
                                     </a>
                                 </div>
                             </div>
