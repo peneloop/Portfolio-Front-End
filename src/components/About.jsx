@@ -26,12 +26,12 @@ export function About(){
 
                 <div className="grid grid-cols-3 md:grid-cols-6 gap-8 items-center justify-items-center bg-slate-900/10 p-8 rounded-3xl border border-slate-800/30
                 transition-all duration-500 hover:scale-[1.02] hover:bg-slate-900/40 hover:border-sky-500/30 hover:shadow-2xl hover:shadow-sky-500/10">
-                    <img src="./public/technology/HTML.png" className="w-12 md:w-16 grayscale hover:grayscale-0 transition-all duration-300 hover:scale-110 cursor-pointer" alt="HTML" />
-                    <img src="./public/technology/CSS.png" className="w-12 md:w-16 grayscale hover:grayscale-0 transition-all duration-300 hover:scale-110 cursor-pointer" alt="CSS" />
-                    <img src="./public/technology/JavaScript.png" className="w-12 md:w-16 grayscale hover:grayscale-0 transition-all duration-300 hover:scale-110 cursor-pointer" alt="JS" />
-                    <img src="./public/technology/react.png" className="w-12 md:w-16 grayscale hover:grayscale-0 transition-all duration-300 hover:scale-110 cursor-pointer" alt="React" />
-                    <img src="./public/technology/Tailwind.png" className="w-12 md:w-16 grayscale hover:grayscale-0 transition-all duration-300 hover:scale-110 cursor-pointer" alt="Tailwind" />
-                    <img src="./public/technology/Git.png" className="w-12 md:w-16 grayscale hover:grayscale-0 transition-all duration-300 hover:scale-110 cursor-pointer" alt="Git" />
+                    <img src="/technology/HTML.png" className="w-12 md:w-16 grayscale hover:grayscale-0 transition-all duration-300 hover:scale-110 cursor-pointer" alt="HTML" />
+                    <img src="/technology/CSS.png" className="w-12 md:w-16 grayscale hover:grayscale-0 transition-all duration-300 hover:scale-110 cursor-pointer" alt="CSS" />
+                    <img src="/technology/JavaScript.png" className="w-12 md:w-16 grayscale hover:grayscale-0 transition-all duration-300 hover:scale-110 cursor-pointer" alt="JS" />
+                    <img src="/technology/react.png" className="w-12 md:w-16 grayscale hover:grayscale-0 transition-all duration-300 hover:scale-110 cursor-pointer" alt="React" />
+                    <img src="/technology/Tailwind.png" className="w-12 md:w-16 grayscale hover:grayscale-0 transition-all duration-300 hover:scale-110 cursor-pointer" alt="Tailwind" />
+                    <img src="/technology/Git.png" className="w-12 md:w-16 grayscale hover:grayscale-0 transition-all duration-300 hover:scale-110 cursor-pointer" alt="Git" />
                 </div>
             </div>
         </section>
